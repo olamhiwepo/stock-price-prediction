@@ -29,6 +29,10 @@ In building a linear regression model to predict the closing price of Tesla's st
 * Training the model
 * Testing for the accuracy of the prediction model
 
+# Result
+
+I got an R2 score of 99.9%
+
 # Pull Requests
 If you have something to add or new idea to implement, you are welcome to create a pull requests on improvement.
 
