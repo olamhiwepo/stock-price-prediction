@@ -1,7 +1,3 @@
-# Title
-
-# stock-price-prediction
-
 # A prediction of the closing price of Tesla stocks using Linear Regression
 
  This is a repository that contains the prediction of closing stock. The dataset used in the project is also included in the repository
